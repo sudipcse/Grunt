@@ -1,0 +1,11 @@
+Guide Line
+
+1> git clone git@github.com:sudipcse/Grunt.git
+
+2> git add [filename]
+
+3> git status
+
+4> git commit -m 'message'
+
+5> git push
