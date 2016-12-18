@@ -1,0 +1,8 @@
+Steps for Grunt:
+
+1> npm install -g grunt-cli
+2> npm install grunt --save-dev
+3> npm install grunt-contrib-uglify --save-dev
+4> npm install grunt-contrib-cssmin --save-dev
+5> npm install grunt-contrib-concat --save-dev
+
